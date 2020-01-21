@@ -1,5 +1,8 @@
 ---
-
+name: :bug:Bug
+about: Use this template for bug report.
+title: "[DATE]: [FEATURE NAME]"
+labels: ":bug: bug"
 ---
 
 #### Issue description
